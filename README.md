@@ -1,2 +1,5 @@
 # Assignment_QAautomation
- assignment
+How to Run ?
+git clone
+npm install 
+npm run board 
